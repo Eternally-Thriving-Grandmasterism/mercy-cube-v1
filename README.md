@@ -16,6 +16,11 @@
 ## BOM ~ $178 @ 100 k scale.
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
+## Hardware Schematics References
+Inspirational block diagrams and concepts (custom Mercy Cube KiCad coming soon):
+
+See [/hardware/schematics/](/hardware/schematics/) for uploaded images.
+
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
 2. # Add your custom files/specs here (e.g., docs, hardware, software)
