@@ -17,14 +17,14 @@
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
 ## Repository Structure
-- [/docs/](docs/) – Architecture, scaling & bio-habitat details
+- [/docs/](docs/) – Architecture, scaling, power & bio-habitat details
 - [/hardware/schematics/](hardware/schematics/) – References & future KiCad
 - [/software/](software/) – Firmware & shard code
 - [/media/](media/) – Visuals & renders
 
-## Bio-Habitat Integration
-Mycelium-regolith walls with embedded Mercy Cube lattices for distributed AI.  
-See [/docs/scaling.md](docs/scaling.md) for thermal scaling and mycotecture details.
+## Bio-Habitat & Power Integration
+Mycelium-regolith walls with embedded lattices + parasitic power from Kilopower/FSP.  
+See [/docs/scaling.md](docs/scaling.md) and [/docs/power-integration.md](docs/power-integration.md).
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
