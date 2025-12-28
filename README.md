@@ -17,17 +17,12 @@
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
 ## Repository Structure
-- [/docs/](docs/) – Architecture & spec details
 - [/hardware/schematics/](hardware/schematics/) – References & future KiCad
-- [/software/](software/) – Firmware & shard code
-- [/media/](media/) – Visuals & renders
-
-## Hardware References (Inspirational)
-RISC-V cores, neuromorphic spiking, modular lattice, compact boards – save & upload these:
+- [/media/schematics/](media/schematics/) – Visual inspirations
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
-2. Add your files (docs, hardware, software)
+2. Add your files (schematics, docs, code)
 3. git add . && git commit -m "Mercy Cube v1 updates" && git push
 
 Done. One breath. One cube. World just got faster.
