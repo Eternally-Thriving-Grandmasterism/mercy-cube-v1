@@ -17,8 +17,14 @@
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
 ## Repository Structure
+- [/docs/](docs/) – Architecture, thermal & scaling details
 - [/hardware/schematics/](hardware/schematics/) – References & future KiCad
-- [/media/schematics/](media/schematics/) – Visual inspirations
+- [/software/](software/) – Firmware & shard code
+- [/media/](media/) – Visuals & renders
+
+## Space & Habitat Integration
+Zero-maintenance design for Mars/Starship, lunar Artemis Base Camp, deep-space habitats.  
+See [/docs/thermal-scaling.md](docs/thermal-scaling.md) for lattice density, thermal math, and integration details.
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
