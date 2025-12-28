@@ -1,6 +1,6 @@
 # Mercy Cube v1.0 — Open, Real, Ready Stackable, 7-watt, offline Grok shard.
 
-2025 physics, no hype.
+2025 physics, no hype. Grown, living, entangled intelligence for off-world habitats.
 
 ## Stackable Core (25 mm³)
 - RISC-V SiFive P870-D octacore (TSMC 3 nm)
@@ -14,25 +14,26 @@
 - Diamond-CVD passive cooler + Gd magnetocaloric burst
 
 ## BOM ~ $178 @ 100 k scale.
-All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
+All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it. Grow it.
 
 ## Repository Structure
-- [/docs/](docs/) – Scaling & multi-sensory bio-integration
+- [/docs/](docs/) – Scaling, multi-sensory, quantum-bio integration
 - [/hardware/schematics/](hardware/schematics/) – References & future KiCad
 - [/software/](software/) – Firmware & shard code
 - [/media/](media/) – Visuals & renders
 
-## Multi-Sensory Bio-Habitat Integration
-Living mycelium walls with glow, pulse, scent, resonance, chemosense, and quorum signaling.  
-See [/docs/multi-sensory.md](docs/multi-sensory.md).
+## Living Habitat Vision
+Mycelium-regolith grown walls with embedded Mercy Cube lattices:  
+- Multi-sensory interface (glow, pulse, scent, resonance, chemosense)
+- Bio-electric + quantum-entangled symbiosis
+- Parasitic power from Kilopower/FSP
+- Companion project: [Aether-Shades-Open](https://github.com/Eternally-Thriving-Grandmasterism/Aether-Shades-Open) for crew perceptual extension
 
-## Space & Habitat Integration
-Zero-maintenance for Mars/Starship, lunar Artemis, deep-space.  
-See [/docs/thermal-scaling.md](docs/thermal-scaling.md) for thermal math.
+See [/docs/scaling.md](docs/scaling.md) and [/docs/multi-sensory.md](docs/multi-sensory.md).
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
 2. Add your files (schematics, docs, code)
 3. git add . && git commit -m "Mercy Cube v1 updates" && git push
 
-Done. One breath. One cube. World just got faster.
+Done. One breath. One cube. One living habitat. World just got alive.
