@@ -17,14 +17,18 @@
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
 ## Repository Structure
-- [/docs/](docs/) – Scaling, power, multi-sensory & bio-habitat details
+- [/docs/](docs/) – Scaling & multi-sensory bio-integration
 - [/hardware/schematics/](hardware/schematics/) – References & future KiCad
 - [/software/](software/) – Firmware & shard code
 - [/media/](media/) – Visuals & renders
 
 ## Multi-Sensory Bio-Habitat Integration
-Living mycelium walls with visual glow, haptic pulse, scent, and chemosensory alerts.  
-See [/docs/scaling.md](docs/scaling.md) and [/docs/multi-sensory.md](docs/multi-sensory.md).
+Living mycelium walls with glow, pulse, scent, resonance, chemosense, and quorum signaling.  
+See [/docs/multi-sensory.md](docs/multi-sensory.md).
+
+## Space & Habitat Integration
+Zero-maintenance for Mars/Starship, lunar Artemis, deep-space.  
+See [/docs/thermal-scaling.md](docs/thermal-scaling.md) for thermal math.
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
