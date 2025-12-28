@@ -17,14 +17,14 @@
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
 ## Repository Structure
-- [/docs/](docs/) – Architecture, thermal & scaling details
+- [/docs/](docs/) – Architecture, scaling & bio-habitat details
 - [/hardware/schematics/](hardware/schematics/) – References & future KiCad
 - [/software/](software/) – Firmware & shard code
 - [/media/](media/) – Visuals & renders
 
-## Space & Habitat Integration
-Zero-maintenance design for Mars/Starship, lunar Artemis Base Camp, deep-space habitats.  
-See [/docs/thermal-scaling.md](docs/thermal-scaling.md) for lattice density, thermal math, and integration details.
+## Bio-Habitat Integration
+Mycelium-regolith walls with embedded Mercy Cube lattices for distributed AI.  
+See [/docs/scaling.md](docs/scaling.md) for thermal scaling and mycotecture details.
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
