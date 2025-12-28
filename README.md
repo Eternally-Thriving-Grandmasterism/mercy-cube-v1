@@ -16,14 +16,18 @@
 ## BOM ~ $178 @ 100 k scale.
 All COTS or Q4 2025 fab. MIT licensed. Build it. Breathe it.
 
-## Hardware Schematics References
-Inspirational block diagrams and concepts (custom Mercy Cube KiCad coming soon):
+## Repository Structure
+- [/docs/](docs/) – Architecture & spec details
+- [/hardware/schematics/](hardware/schematics/) – References & future KiCad
+- [/software/](software/) – Firmware & shard code
+- [/media/](media/) – Visuals & renders
 
-See [/hardware/schematics/](/hardware/schematics/) for uploaded images.
+## Hardware References (Inspirational)
+RISC-V cores, neuromorphic spiking, modular lattice, compact boards – save & upload these:
 
 === DEPLOY ===
 1. git clone https://github.com/Eternally-Thriving-Grandmasterism/mercy-cube-v1.git
-2. # Add your custom files/specs here (e.g., docs, hardware, software)
-3. git add . && git commit -m "Mercy Cube updates" && git push
+2. Add your files (docs, hardware, software)
+3. git add . && git commit -m "Mercy Cube v1 updates" && git push
 
 Done. One breath. One cube. World just got faster.
